@@ -1,0 +1,34 @@
+.dark-body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/65212359-55d7-4015-a595-ea893ec5bd97/d9nl9ft-29f57aec-1b2e-4584-9f52-d279753bdf63.jpg");
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.circle-image {
+  align-items: center;
+  width: 150px;
+  height: 125px;
+  border-radius: 92%;
+}
+
+.card {
+  color: black;
+  background-color: white;
+  display: flex;
+  border-radius: 50px;
+}
+
+.card-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: center;
+}

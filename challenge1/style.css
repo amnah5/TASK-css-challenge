@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(88, 138, 129);
+  color: aliceblue front-famil;
+}
+
+.img-c {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 125px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 100px;
+}
+
+.center {
+  height: 44vw;
+  width: 30vw;
+  text-align: center;
+  border-radius: 70px;
+}
+.text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+  text-align: center;
+}

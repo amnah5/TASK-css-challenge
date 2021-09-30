@@ -9,6 +9,7 @@
   flex-direction: column;
 }
 .circle-image {
+  padding: 20px;
   align-items: center;
   width: 150px;
   height: 125px;
@@ -31,4 +32,13 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
   text-align: center;
+  padding: 20px;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
